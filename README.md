@@ -1,3 +1,7 @@
+---
+# 🟢 Project Managed by ChaosBot Team
+---
+
 𝖙𝖍𝖎𝖘_𝖉𝖎𝖘𝖙𝖗𝖔𝖞_𝖕𝖈_𝖛𝖎𝖗𝖚𝖘 🟢
 ✧ Welcome to the Official Repository ✧
 Everyone has worked extremely hard on this project to bring you this unique experience.
